@@ -1,0 +1,20 @@
+{
+    "name": "kartaal/laravel-users",
+    "description": "laravel multi users types with activation drivers",
+    "type": "library",
+    "require": {
+        "laravel/laravel": "5.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kartaal\LaravelUsers\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mustafa Omar",
+            "email": "mu-omar@outlook.com"
+        }
+    ]
+}
